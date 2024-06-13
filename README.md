@@ -21,5 +21,5 @@ Important insights into the distribution of the chosen variable were obtained fr
 ## Contact Information 📩
 For any inquiries or feedback regarding this project, please contact:
 
-- <a href="www.linkedin.com/in/adithi-v-345604257">Adithi Vellengara(LinkedIn)</a>
+- <a href="https://www.linkedin.com/in/adithi-v-345604257/">Adithi Vellengara(LinkedIn)</a>
 - Email 📧: adithivs06@gmail.com
