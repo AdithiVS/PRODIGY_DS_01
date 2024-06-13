@@ -16,7 +16,7 @@ SP.POP.TOTL.FE.ZS	 Population, female (% of total population)
 SP.POP.TOTL.MA.ZS	 Population, male (% of total population)
 
 ## Conclusion
-Important insights into the distribution of the chosen variable were obtained from histogram and scatter plot of respective categorical variables od dataset. This inquiry lays the groundwork for future data science modeling assignments and investigations, providing a strong platform for analysis and decision-making.
+Important insights into the distribution of the chosen variable were obtained from histogram and scatter plot of respective categorical variables of dataset. This inquiry lays the groundwork for future data science modeling assignments and investigations, providing a strong platform for analysis and decision-making.
 
 ## Contact Information 📩
 For any inquiries or feedback regarding this project, please contact:
