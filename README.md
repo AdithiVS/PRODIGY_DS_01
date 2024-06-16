@@ -8,12 +8,11 @@ Information representation is a critical skill in the fields of data analysis an
 The dataset used is <a href="https://github.com/AdithiVS/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>.
 The dataset covers population records from 2001 to 2022, offering insights into global demographic trends, age distribution, gender demographics, and other population-related factors. It serves as a valuable resource for understanding global population dynamics.
 
-<p>Series:            Code	Meaning</p>
 <p>SP.POP.TOTL ==>       Population, total</p>
 <p>SP.POP.TOTL.FE.IN ==> Population, female</p>
-<p>SP.POP.TOTL.MA.IN ==>	 Population, male</p>
-<p>SP.POP.TOTL.FE.ZS ==>Population, female (% of total population)</p>
-<p>SP.POP.TOTL.MA.ZS	 Population, male (% of total population)</p>
+<p>SP.POP.TOTL.MA.IN ==> Population, male</p>
+<p>SP.POP.TOTL.FE.ZS ==> Population, female (% of total population)</p>
+<p>SP.POP.TOTL.MA.ZS ==> Population, male (% of total population)</p>
 
 ## Conclusion
 Important insights into the distribution of the chosen variable were obtained from histogram and scatter plot of respective categorical variables of dataset. This inquiry lays the groundwork for future data science modeling assignments and investigations, providing a strong platform for analysis and decision-making.
