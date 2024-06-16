@@ -8,11 +8,11 @@ Information representation is a critical skill in the fields of data analysis an
 The dataset used is <a href="https://github.com/AdithiVS/PRODIGY_DS_01/blob/main/worldpopulationdata.csv">world_population_dataset</a>.
 The dataset covers population records from 2001 to 2022, offering insights into global demographic trends, age distribution, gender demographics, and other population-related factors. It serves as a valuable resource for understanding global population dynamics.
 
-Series             Code	Meaning
-SP.POP.TOTL	       Population, total
-SP.POP.TOTL.FE.IN	 Population, female
-SP.POP.TOTL.MA.IN	 Population, male
-SP.POP.TOTL.FE.ZS	 Population, female (% of total population)
+-Series             Code	Meaning
+SP.POP.TOTL	       Population, total\n
+SP.POP.TOTL.FE.IN	 Population, female\n
+SP.POP.TOTL.MA.IN	 Population, male\n
+SP.POP.TOTL.FE.ZS	 Population, female (% of total population)\n
 SP.POP.TOTL.MA.ZS	 Population, male (% of total population)
 
 ## Conclusion
