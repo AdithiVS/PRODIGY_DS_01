@@ -9,7 +9,7 @@ The dataset used is <a href="https://github.com/AdithiVS/PRODIGY_DS_01/blob/main
 The dataset covers population records from 2001 to 2022, offering insights into global demographic trends, age distribution, gender demographics, and other population-related factors. It serves as a valuable resource for understanding global population dynamics.
 
 Series             Code	Meaning
-SP.POP.TOTL	       Population, total <\n>
+SP.POP.TOTL	       Population, total
 SP.POP.TOTL.FE.IN	 Population, female
 SP.POP.TOTL.MA.IN	 Population, male
 SP.POP.TOTL.FE.ZS	 Population, female (% of total population)
